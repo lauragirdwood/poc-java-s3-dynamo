@@ -69,7 +69,7 @@ OK comparar cada registro da lista retornada pelo select com todos com pedidos d
 
 OK caso encontre algum registro igual, verificar se um campo do json contém uma string "CANCELAR",
 
-caso tenha essa string, fazer um update nesse registro marcando ele como TRUE.
+OK caso tenha essa string, fazer um update nesse registro marcando ele como TRUE.
 
 
 
