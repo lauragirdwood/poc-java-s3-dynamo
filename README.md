@@ -1,3 +1,15 @@
+## Tecnologias:
+
+Java 11
+Maven
+AWS S3
+AWS DynamoDB
+
+## Print do código em execução:
+![image](https://user-images.githubusercontent.com/8313184/230374806-9178a772-0970-4265-87c2-c69191b7ecfc.png)
+
+
+
 ## Passos realizados:
 
 
