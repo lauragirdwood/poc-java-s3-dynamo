@@ -50,7 +50,9 @@ OK ler o arquivo json de um bucket s3 e armazenar o resultado em uma lista
 
 OK criar um dynamo com 1 tabela cujo id (hash) seja o campo pedido_id
  - script aws-cli para criação da tabela:
-   aws dynamodb create-table  --table-name pedidos --attribute-definitions AttributeName=pedido_id,AttributeType=S --key-schema AttributeName=pedido_id,KeyType=HASH --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1
+
+        aws dynamodb create-table  --table-name pedidos --attribute-definitions AttributeName=pedido_id,AttributeType=S --key-schema AttributeName=pedido_id,KeyType=HASH --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1
+
 
 OK fazer um select em uma tabela e armazenar o resultado em uma lista
     OK - 1º fazer inserts de pedidos na tabela via aws-cli
