@@ -1,6 +1,9 @@
+## Passos realizados:
+
+
 OK acessar minha conta da aws a partir da IDE (rodo o rolê das credenciais)
 
-configurar os sdks de java da aws na IDE
+OK configurar os sdks de java da aws na IDE
 
     - QUAL SDK pra S3?
         - quais opções que tem?
@@ -68,3 +71,10 @@ OK caso encontre algum registro igual, verificar se um campo do json contém uma
 
 caso tenha essa string, fazer um update nesse registro marcando ele como TRUE.
 
+
+
+# TODOs
+
+- testes unitários
+- classe utils para fazer upload de arquivo no s3
+- classe utils para gerar querys de insert automatizadas para o dynamo
