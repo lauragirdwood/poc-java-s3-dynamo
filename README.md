@@ -46,7 +46,7 @@ OK configurar os sdks de java da aws na IDE
 OK criar um bucket s3 com uma pasta e um json dentro (criado na mão mesmo via console)
 
 OK ler o arquivo json de um bucket s3 e armazenar o resultado em uma lista 
-           OK - 1º testes lendo e escrevendo em arquivo json local
+**** OK - 1º testes lendo e escrevendo em arquivo json local
 
 OK criar um dynamo com 1 tabela cujo id (hash) seja o campo pedido_id
  - script aws-cli para criação da tabela:
@@ -55,7 +55,7 @@ OK criar um dynamo com 1 tabela cujo id (hash) seja o campo pedido_id
 
 
 OK fazer um select em uma tabela e armazenar o resultado em uma lista
-           OK - 1º fazer inserts de pedidos na tabela via aws-cli
+**** OK - 1º fazer inserts de pedidos na tabela via aws-cli
     
    scripts para fazer insert de 01 item via cli:
    (como tem aspas duplas, se rodar no cmd windows precisa por barra invertida pra fazer o escape do caractere, no linux/git bash dá bom)
