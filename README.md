@@ -1,4 +1,4 @@
-## PoC¹ de estudo para integração de aplicação Java com S3 e Dynamo utilizando SDKs² v2 da AWS
+## PoC¹ aplicação Java integrada com S3 e Dynamo usando SDKs² v2 da AWS
 ¹ PoC: Proof of Concept (Prova de Conceito)
 
 ² SDK: Software Development Kit (Kit de Desenvolvimento de Software)
