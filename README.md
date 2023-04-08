@@ -12,7 +12,7 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
 |------------|-------------------------------------------------------------------|----------------------------------------------------------|
 | Domain     | [/src/main/java/application/domain/](domain)                      |  Entidade DynamoDB e Classe POJO do domínio de Pedido    |
 | Dynamo     | [/src/main/java/application/dynamo/DynamoDBService.java](dynamo)  |  Serviço para select e update com DynamoDbClient         |
-| S3         | [/src/main/java/application/s3/S3BucketService.java](s3)          |  Serviço para getObject com S3Client e Object Mapper     |
+| S3         | [/poc-java-s3-dynamo/blob/main/src/main/java/application/s3/S3BucketService.java](s3)          |  Serviço para getObject com S3Client e Object Mapper     |
 | Utils      | [/src/main/java/application/utils/](utils)                        |  Classes utilitárias geradoras e leitoras de .json local |
 | Main       | [/src/main/java/application/Application.java](main)               |  Início da execução via método main e regras de negócio  |
 
