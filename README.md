@@ -30,7 +30,7 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
 
 ² Maven: Apache Maven é uma ferramenta de gerenciamento de dependências e build de projetos em Java
 
-³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1**
+³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1** que foi usada neste projeto
 
 ³ Plugin: Se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado, vidros elétricos etc.
   
