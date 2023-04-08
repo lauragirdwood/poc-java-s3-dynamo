@@ -33,7 +33,7 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
 
 ³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1** que foi usada neste projeto. Já sobre o plugin, se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado ou vidro elétrico etc.
   
-## Passos realizados:
+## Como este projeto foi feito:
 
 1. Acessar conta da aws a partir da IDE com ajuda do plugin AWS Toolkit para autenticação usando o arquivo local [~/.aws/credentials](https://docs.aws.amazon.com/pt_br/toolkit-for-jetbrains/latest/userguide/setup-credentials.html)
 
