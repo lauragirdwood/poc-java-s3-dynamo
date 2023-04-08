@@ -27,9 +27,12 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
 - *IDE com plugin*³ [AWS Toolkit](https://docs.aws.amazon.com/pt_br/toolkit-for-jetbrains/latest/userguide/welcome.html) instalado e conectado com a conta da AWS (ou com Docker Local simulando os serviços ex. Localstack)
 
 ¹ JDK: Java Development Kit (Kit de Dsenvolvimento Java)
+
 ² Maven: Apache Maven é uma ferramenta de gerenciamento de dependências e build de projetos em Java
-³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) - neste projeto foi utilizada a IDE **Intellij Communitty Edition 2023.1**
-  Plugin: Se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado, vidros elétricos etc.
+
+³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1**
+
+³ Plugin: Se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado, vidros elétricos etc.
   
 ## Passos realizados:
 
@@ -83,9 +86,9 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
             - **OPÇÃO ESCOLHIDA**         
             - https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code/dynamodb
         
-            DynamoDbClient - entre outros, dá acesso ao métodos CRUD do DynamoDB, como putItem(), getItem(), updateItem() e deleteItem()
+            *DynamoDbClient - entre outros, dá acesso ao métodos CRUD do DynamoDB, como putItem(), getItem(), updateItem() e deleteItem()*
             
-            DynamoDbEnhancedClient - abstração do DynamoDbClient, entre outros, provê anotações de mapeamento de uma classe Java para uma tabela do DynamoDB.
+            *DynamoDbEnhancedClient - abstração do DynamoDbClient, entre outros, provê anotações de mapeamento de uma classe Java para uma tabela do DynamoDB.*
 
 
 3. Criar um bucket s3 com uma pasta e um arquivo json dentro (criado na mão mesmo via console)
