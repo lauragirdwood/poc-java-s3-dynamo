@@ -25,14 +25,13 @@ Java 11, Maven, AWS S3, AWS DynamoDB, JUnit 5 (Jupiter), Mockito
 - Conta na AWS criada e configurada com AWS IAM Identity Center
 - Ambiente local de desenvolvimento configurado com JDK¹ 11 e Maven²
 - *IDE com plugin*³ [AWS Toolkit](https://docs.aws.amazon.com/pt_br/toolkit-for-jetbrains/latest/userguide/welcome.html) instalado e conectado com a conta da AWS (ou com Docker Local simulando os serviços ex. Localstack)
+- AWS CLI instalado
 
 ¹ JDK: Java Development Kit (Kit de Dsenvolvimento Java)
 
 ² Maven: Apache Maven é uma ferramenta de gerenciamento de dependências e build de projetos em Java
 
-³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1** que foi usada neste projeto
-
-³ Plugin: Se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado, vidros elétricos etc.
+³ IDE: Integrated Development Environment (Ambiente Integrado de Desenvolvimento) como a **Intellij Communitty Edition 2023.1** que foi usada neste projeto. Já sobre o plugin, se a IDE fosse um carro, instalar um plugin na IDE seria equivalente a equipar um carro com ar-condicionado ou vidro elétrico etc.
   
 ## Passos realizados:
 
