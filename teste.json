@@ -1,0 +1,42 @@
+[
+  {
+    "pedido_id": "31067442-1a52-4a67-8e40-94330c69e68a",
+    "acao": "CANCELAR"
+  },
+  {
+    "pedido_id": "8ca89336-fb15-4af2-b2be-5f8af8d16bb2",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "8c00b8cc-ee53-43e1-b49e-6b890fceb5dd",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "64ee848a-d210-40b9-87f3-6b8c3a5a6601",
+    "acao": "CANCELAR"
+  },
+  {
+    "pedido_id": "f6309ab5-6585-4c71-a435-a94a7c4f6f83",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "9f6dd60c-df71-4e03-9609-76895801e0dd",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "24ffb2af-0d5d-4aa9-b950-abda46a2b766",
+    "acao": "CANCELAR"
+  },
+  {
+    "pedido_id": "9b4f7abb-ce04-42e8-a986-228b6fdc8320",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "9ac77f26-3bfb-4acb-92aa-4585e5976af1",
+    "acao": "CONFIRMAR"
+  },
+  {
+    "pedido_id": "6ebce4a2-ffe0-4135-82cd-e054746b8f44",
+    "acao": "CANCELAR"
+  }
+]

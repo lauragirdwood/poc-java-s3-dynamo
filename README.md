@@ -1,6 +1,6 @@
-OK acessar minha conta da aws a partir da IDE (rodo o rolê das credenciais)
+OK acessar minha conta da aws a partir da IDE (todo o rolê das credenciais)
 
-configurar os sdks de java da aws na IDE
+OK configurar os sdks de java da aws na IDE
 
     - QUAL SDK pra S3?
         - quais opções que tem?
@@ -66,5 +66,5 @@ OK comparar cada registro da lista retornada pelo select com todos com pedidos d
 
 OK caso encontre algum registro igual, verificar se um campo do json contém uma string "CANCELAR",
 
-caso tenha essa string, fazer um update nesse registro marcando ele como TRUE.
+OK caso tenha essa string, fazer um update nesse registro marcando ele como TRUE.
 

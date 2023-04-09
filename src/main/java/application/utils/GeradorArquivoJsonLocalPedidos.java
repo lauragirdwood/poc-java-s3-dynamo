@@ -12,7 +12,7 @@ import java.util.UUID;
 
 public class GeradorArquivoJsonLocalPedidos {
 
-    //TODO gerador de arquivo no S3
+    //TODO gerador de arquivo que faz upload no S3
 
     public static void main(String[] args) {
 
